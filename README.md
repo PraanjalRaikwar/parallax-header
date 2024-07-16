@@ -7,7 +7,7 @@ This project showcases a website header with a parallax effect.
 1. Clone the repository.
 2. Open `index.html` in your browser.
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## License
 
