@@ -1,0 +1,13 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore log files and temp files
+*.log
+*.tmp
+
+# Ignore node_modules (if you used any npm packages)
+node_modules/
+
+# Ignore build directories (if applicable)
+dist/
+build/
